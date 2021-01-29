@@ -33,7 +33,7 @@ function timer() {
     var hours = Math.floor(time / 3600);
     var minutes = Math.floor((time - (hours * 3600)) / 60);
     var seconds = Math.floor(time - (hours * 3600) - (minutes * 60));
-    var duration = currentTime.duration;
+    var duration = audioElement.duration;
     if (seconds < 10) {
         seconds = "0" + seconds;
     }
