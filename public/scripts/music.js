@@ -6,7 +6,6 @@ var carryTime = 0;
 var duration = 0;
 var trackList = 
 [   
-    'http://download.music.com.bd/Music/T/Tahsan/Ichche/01%20-%20Tahsan%20-%20Alo%20(music.com.bd).mp3',
     'https://www.zenyogawellness.com/_Media/01-root-chakra-muladhara.mp3',
     'https://www.zenyogawellness.com/_Media/02-root-chakra-muladhara.mp3',
     'https://www.zenyogawellness.com/_Media/03-sacral-chakra-svadhistha.mp3',
